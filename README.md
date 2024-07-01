@@ -1,1 +1,1 @@
-[Page](https://UseBob.github.io/rsschool-cv_Test/cv)
+[Page](https://UseBob.github.io/rsschool-cv/)
